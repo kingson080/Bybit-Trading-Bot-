@@ -1,5 +1,3 @@
-# Bybit-Trading-Bot
-
 # Bitcoin Trading Strategy Analysis
 
 ## Project Overview
